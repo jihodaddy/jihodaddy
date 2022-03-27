@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm KIM SE-KYEONG</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jihodaddy&label=Profile%20views&color=0e75b6&style=flat" alt="jihodaddy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jihodaddy" alt="jihodaddy" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -20,3 +19,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jihodaddy&show_icons=true&locale=en" alt="jihodaddy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jihodaddy&" alt="jihodaddy" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jihodaddy" alt="jihodaddy" /></a> </p>
+
