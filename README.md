@@ -25,4 +25,6 @@
 
 
 ## 프로젝트
-### [링크랭크(LINKRANK)](https://github.com/jihodaddy/spring_boot_linkrank.git)
+### [링크랭크(LINKRANK)](https://github.com/jihodaddy/spring_boot_linkrank.git) - Spring boot
+### [필요(PILL-YO)](https://github.com/jihodaddy/spring_boot_pillyo.git) - Spring boot
+### [나의오늘하루(DAILY-LIFE)](https://github.com/jihodaddy/spring_boot_pillyo.git) - react + Spring boot
